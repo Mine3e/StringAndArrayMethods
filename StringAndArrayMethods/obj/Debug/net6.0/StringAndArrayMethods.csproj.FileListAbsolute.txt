@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\StringAndArrayMethods\bin\Debug\net6.0\StringAndArrayMethods.exe
+C:\Users\hp\source\repos\StringAndArrayMethods\bin\Debug\net6.0\StringAndArrayMethods.deps.json
+C:\Users\hp\source\repos\StringAndArrayMethods\bin\Debug\net6.0\StringAndArrayMethods.runtimeconfig.json
+C:\Users\hp\source\repos\StringAndArrayMethods\bin\Debug\net6.0\StringAndArrayMethods.dll
+C:\Users\hp\source\repos\StringAndArrayMethods\bin\Debug\net6.0\StringAndArrayMethods.pdb
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.AssemblyInfo.cs
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.dll
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\refint\StringAndArrayMethods.dll
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.pdb
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\StringAndArrayMethods.genruntimeconfig.cache
+C:\Users\hp\source\repos\StringAndArrayMethods\obj\Debug\net6.0\ref\StringAndArrayMethods.dll
